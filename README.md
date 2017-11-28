@@ -1,5 +1,6 @@
 # Distributed Cloud DB [![Build Status](https://travis-ci.com/benedekh/WeLoveClouds.svg?token=TkqqReeFN5GNomAvvTWP&branch=master)](https://travis-ci.com/benedekh/WeLoveClouds)
-Repository for submissions on the CloudDB course.
+> This cloud database project has been developped as part of the Cloud Database Praktikum (IN4163) at TUM (Technische Universität München). The team had to implement a distributed, scalable, encrypted, replicated data base within a 16 weeks timespan. The proposed solution includes an external configuration manager, SSL communication, a load balancer, custom transactions and StatsD metric. The team received an <strong>sehr gut</strong> grade for this project which is the highest possible.
+
 ### High Level Architechture
 #### ECS/Loadbalancer and messaging
 > <img src="architechture.PNG">
@@ -16,19 +17,19 @@ Repository for submissions on the CloudDB course.
 ##### Feature branch
 > feature/ [Short feature description]
 
-#####Bug branch
+##### Bug branch
 > fix/ [Short fix description]
 
 #### Commits syntax:
 
-#####Adding code:
+##### Adding code:
 > \+ Added [Short Description]
 
-#####Deleting code:
+##### Deleting code:
 > \- Deleted [Short Description]
 
-#####Modifying code:
+##### Modifying code:
 > \* Changed [Short Description]
 
-#####Merging code:
+##### Merging code:
 > Y Merged [Short Description]
