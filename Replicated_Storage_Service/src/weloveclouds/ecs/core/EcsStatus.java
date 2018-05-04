@@ -1,9 +1,0 @@
-package weloveclouds.ecs.core;
-
-/**
- * Created by Benoit on 2016-11-22.
- */
-public enum EcsStatus {
-    UNINITIALIZED, INITIALIZING_SERVICE, UPDATING_METADATA, INITIALIZED, STARTING_NODE,
-    STOPPING_NODE, REMOVING_NODE, ADDING_NODE, SHUTDOWNING_NODE
-}
